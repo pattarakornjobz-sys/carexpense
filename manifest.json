@@ -1,0 +1,30 @@
+{
+  "name": "CarExpense · บันทึกค่าใช้จ่ายรถ",
+  "short_name": "CarExpense",
+  "description": "บันทึกค่าน้ำมัน ค่าบำรุงรักษา ทริป และสถิติรถยนต์ส่วนตัว",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f2f3",
+  "theme_color": "#f2f2f3",
+  "lang": "th",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
